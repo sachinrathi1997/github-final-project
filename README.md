@@ -1,6 +1,7 @@
 # github-final-project
 IBM Full Stack Developer Professional Certificate from Coursera.
 
+Final Project: Part 1 - GitHub UI
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
