@@ -1,5 +1,7 @@
 # github-final-project
-IBM Full Stack Developer Professional Certificate from Coursera 
+IBM Full Stack Developer Professional Certificate from Coursera.
+
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
    p, principal amount
